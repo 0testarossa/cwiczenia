@@ -6,7 +6,7 @@ Zmiana
 
 zmiana2
 
-data:29.10.2018
+data:28.10.2018
 
 zmiana w galezi 1
 
