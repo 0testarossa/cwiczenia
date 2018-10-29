@@ -1,3 +1,1 @@
 # cwiczenia
-
-Paulina Paszkowiak
